@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
 options: "c6a91e2e7e475fc29f0d5cdf8dcc88c0"
-build_time: [1580464926, 652066000]
+build_time: [1580464991, 740060000]
 inputs:
-  "/Users/nazarkovalik/Desktop/request_test/request_test/TableView/ViewController.swift": [1580464925, 314990187]
+  "/Users/nazarkovalik/Desktop/request_test/request_test/TableView/ViewController.swift": [1580464991, 337704039]
   "/Users/nazarkovalik/Desktop/request_test/request_test/Managers/Service.swift": [1580464122, 37038523]
   "/Users/nazarkovalik/Desktop/request_test/request_test/Foto/PhotoViewController.swift": [1580463285, 656349178]
   "/Users/nazarkovalik/Desktop/request_test/request_test/AppDelegate.swift": [1580421846, 148617367]

@@ -1,32 +1,32 @@
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/AFError.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/Alamofire.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/AlamofireExtended.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/CachedResponseHandler.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/EventMonitor.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/HTTPHeaders.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/HTTPMethod.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/MultipartFormData.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/MultipartUpload.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/NetworkReachabilityManager.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/Notifications.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/OperationQueue+Alamofire.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/ParameterEncoder.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/ParameterEncoding.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/Protector.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/RedirectHandler.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/Request.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/RequestInterceptor.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/RequestTaskMap.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/Response.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/ResponseSerialization.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/Result+Alamofire.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/RetryPolicy.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/ServerTrustEvaluation.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/Session.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/SessionDelegate.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/URLConvertible+URLRequestConvertible.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/URLEncodedFormEncoder.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/URLRequest+Alamofire.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/URLSessionConfiguration+Alamofire.swift
-/Users/nazarkovalik/Desktop/request_test/Pods/Alamofire/Source/Validation.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/AFError.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/Alamofire.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/AlamofireExtended.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/CachedResponseHandler.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/EventMonitor.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/HTTPHeaders.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/HTTPMethod.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/MultipartFormData.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/MultipartUpload.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/NetworkReachabilityManager.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/Notifications.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/OperationQueue+Alamofire.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/ParameterEncoder.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/ParameterEncoding.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/Protector.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/RedirectHandler.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/Request.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/RequestInterceptor.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/RequestTaskMap.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/Response.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/ResponseSerialization.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/Result+Alamofire.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/RetryPolicy.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/ServerTrustEvaluation.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/Session.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/SessionDelegate.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/URLConvertible+URLRequestConvertible.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/URLEncodedFormEncoder.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/URLRequest+Alamofire.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/URLSessionConfiguration+Alamofire.swift
+/Users/nazarkovalik/Desktop/безіменна\ папка\ 4/безіменна\ папка/request_test/Pods/Alamofire/Source/Validation.swift

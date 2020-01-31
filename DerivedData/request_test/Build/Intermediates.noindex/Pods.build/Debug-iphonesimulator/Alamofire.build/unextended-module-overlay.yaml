@@ -3,11 +3,11 @@
   'case-sensitive': 'false',
   'roots': [{
     'type': 'directory',
-    'name': "/Users/nazarkovalik/Desktop/request_test/DerivedData/request_test/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules"
+    'name': "/Users/nazarkovalik/Desktop/безіменна папка 4/безіменна папка/request_test/DerivedData/request_test/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules"
     'contents': [{
       'type': 'file',
       'name': "module.modulemap",
-      'external-contents': "/Users/nazarkovalik/Desktop/request_test/DerivedData/request_test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/unextended-module.modulemap",
+      'external-contents': "/Users/nazarkovalik/Desktop/безіменна папка 4/безіменна папка/request_test/DerivedData/request_test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/unextended-module.modulemap",
     }]
   }]
 }
