@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "45e3bdf05592abd2a795e6cf2c994968"
+build_time: [1580464745, 306386000]
+inputs:
+  "/Users/nazarkovalik/Desktop/request_test/request_test/TableView/ViewController.swift": [1580464122, 53829569]
+  "/Users/nazarkovalik/Desktop/request_test/request_test/Managers/Service.swift": [1580464122, 37038523]
+  "/Users/nazarkovalik/Desktop/request_test/request_test/Foto/PhotoViewController.swift": [1580463285, 656349178]
+  "/Users/nazarkovalik/Desktop/request_test/request_test/AppDelegate.swift": [1580421846, 148617367]
+  "/Users/nazarkovalik/Desktop/request_test/request_test/TableView/TableViewCell.swift": [1580429520, 488113170]
+  "/Users/nazarkovalik/Desktop/request_test/request_test/GalleryView/GalleryViewController.swift": [1580463255, 843727512]
+  "/Users/nazarkovalik/Desktop/request_test/request_test/Models/Country.swift": [1580464018, 546944265]
+  "/Users/nazarkovalik/Desktop/request_test/request_test/SceneDelegate.swift": [1580421846, 165034099]

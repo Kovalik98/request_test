@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/nazarkovalik/Desktop/request_test/DerivedData/request_test/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/nazarkovalik/Desktop/request_test/DerivedData/request_test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/unextended-module.modulemap",
+    }]
+  }]
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>658B0A1A-FA47-4C4A-88F0-998647CED314</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>658B0A1A-FA47-4C4A-88F0-998647CED314.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>request_test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>request_test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug request_test</string>
+			<key>timeStartedRecording</key>
+			<real>602158216.29881799</real>
+			<key>timeStoppedRecording</key>
+			<real>602158336.17066097</real>
+			<key>title</key>
+			<string>Debug request_test</string>
+			<key>uniqueIdentifier</key>
+			<string>658B0A1A-FA47-4C4A-88F0-998647CED314</string>
+		</dict>
+		<key>9CE91927-1BAB-4330-BF95-CE0CBB8854A0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9CE91927-1BAB-4330-BF95-CE0CBB8854A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>request_test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>request_test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug request_test</string>
+			<key>timeStartedRecording</key>
+			<real>602157794.33772302</real>
+			<key>timeStoppedRecording</key>
+			<real>602157878.238976</real>
+			<key>title</key>
+			<string>Debug request_test</string>
+			<key>uniqueIdentifier</key>
+			<string>9CE91927-1BAB-4330-BF95-CE0CBB8854A0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
